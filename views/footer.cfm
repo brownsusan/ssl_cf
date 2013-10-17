@@ -1,1 +1,1 @@
-<span>THIS IS A FOOTER</span>
+<br><span>THIS IS A FOOTER</span>
